@@ -1,0 +1,52 @@
+#!/bin/bash
+echo 
+echo "******************************************************************"
+echo "**                                                              **"
+echo "** About to replace PMS DB!                                     **"
+echo "** Ensure Plex Media Server is stopped,                         **"
+echo "** and DB backup is valid                                       **"
+echo "**  (PMS will be stoped to be sure, and will be started after)  **"
+echo "**                                                              **"
+echo "******************************************************************"
+echo
+echo -n "Restore PMS DB from backup location (y/n)? "
+
+old_stty_cfg=$(stty -g)
+stty raw -echo
+answer=$( while ! head -c 1 | grep -i '[ny]' ;do true ;done )
+stty $old_stty_cfg
+
+if echo "$answer" | grep -iq "^y" ;then
+    echo "Stopping Plex..."
+    #docker stop plexmediaserver
+    ssh 192.168.1.12 -p 7823 'systemctl status plexmediaserver | grep "Active:"'
+    echo "Plex Stopped, continue with database restore (y/n)? "
+    old_stty_cfg=$(stty -g)
+    stty raw -echo
+    answer=$( while ! head -c 1 | grep -i '[ny]' ;do true ;done )
+    stty $old_stty_cfg
+    if echo "$answer" | grep -iq "^y" ;then
+        echo
+        stty -echo; ssh -p 7823 192.168.1.12 "sudo -v"; stty echo
+        rsync -savzz -e 'ssh -t -p 7823' --rsync-path='sudo rsync' --progress  "192.168.1.12:/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.db.test" /home/wayne/tmp/plex/com.plexapp.plugins.library.db.test.last
+        echo "Current Plex DB backed up to /tmp/plex, now will restore DB to Plex..."
+        stty -echo; ssh -p 7823 192.168.1.12 "sudo -v"; stty echo
+        rsync -savzz -e 'ssh -t -p 7823' --rsync-path='sudo rsync' --progress /home/wayne/tmp/plex/com.plexapp.plugins.library.db.test "192.168.1.12:/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-in Support/"
+        echo "Restore Complete!"
+        ssh 192.168.1.12 -p 7823 'ls -lah "/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/"' 
+#Plug-in Support/'
+    else
+        echo "DB not restored, restarting Plex..."
+        echo
+    fi
+    endif
+    #docker start plexmediaserver
+    echo "Plex Started."
+    echo
+    ssh 192.168.1.12 -p 7823 'systemctl status plexmediaserver | grep "Active:"' 
+    echo
+    echo "Done."
+else
+    echo "DB not restored."
+    echo
+fi

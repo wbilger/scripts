@@ -1,0 +1,5 @@
+https://github.com/ChuckPa/PlexDBRepair
+
+sudo bash  #to run as root
+systemctl stop plexmediaserver
+./DBRepair.sh

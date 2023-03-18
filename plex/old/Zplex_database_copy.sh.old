@@ -1,0 +1,32 @@
+#!/bin/bash
+echo "** Ensure PMS is stopped (will be stopped to be sure), it will be started again after the backup."
+echo -n "Copy PMS DB to backup location (y/n)? "
+
+old_stty_cfg=$(stty -g)
+stty raw -echo
+answer=$( while ! head -c 1 | grep -i '[ny]' ;do true ;done )
+stty $old_stty_cfg
+
+if echo "$answer" | grep -iq "^y" ;then
+    echo "Stopping Plex..."
+    docker stop plexmediaserver
+    echo "Plex Stopped."
+    docker ps -f name=plexmediaserver
+    echo
+    mkdir -p /srv/7b7baa69-90bd-4bae-8cb7-3c2b359a648c/tmp/plex/
+    cp -a /srv/dev-disk-by-uuid-14e7e7c0-c29a-45ba-bfc9-85409688092b/docker/plex/config/plexmediaserver/Library/Application\ Support/Plex\ Media\ Server/Plug-in\ Support/Databases/com.plexapp.plugins.library.db /srv/7b7baa69-90bd-4bae-8cb7-3c2b359a648c/tmp/plex/
+    echo "Copy Complete!"
+    echo
+    docker ps -f name=plexmediaserver
+    echo
+    ls -lah /srv/7b7baa69-90bd-4bae-8cb7-3c2b359a648c/tmp/plex/
+    echo
+    docker start plexmediaserver
+    echo "Plex Started."
+    docker ps -f name=plexmediaserver
+    echo
+    echo "Done."
+else
+    echo "DB not copied"
+    echo
+fi

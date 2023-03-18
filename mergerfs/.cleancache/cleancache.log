@@ -1,0 +1,301 @@
+Fri Mar 10 19:08:32 EST 2023 Begin cache drive clean...
+Fri Mar 10 19:08:39 EST 2023 Done
+Fri Mar 10 19:08:55 EST 2023 Begin cache drive clean...
+Fri Mar 10 19:08:55 EST 2023 Done
+Fri Mar 10 19:13:05 EST 2023 Begin cache drive clean...
+Fri Mar 10 19:13:05 EST 2023 Done
+Fri Mar 10 19:16:35 EST 2023 Begin cache drive clean...
+rsync /mnt/cache/1/tmp/./plex/com.plexapp.plugins.library.db.1 /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/media/pictures/./2022/2022_10/2022_10_08/20221008_155813.mp4 /mnt/mergerfs/backing/media/pictures
+rsync /mnt/cache/1/media/videos/Stand Up/./Chris Rock Selective Outrage (2023)/Chris Rock Selective Outrage.mp4 /mnt/mergerfs/backing/media/videos/Stand Up
+rsync /mnt/cache/1/media/videos/TV-Reality/./Big Brother Canada/Season11/Big Brother Canada - s11e01 - Episode 1.mkv /mnt/mergerfs/backing/media/videos/TV-Reality
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Home Town/Season07/Home Town - s07e12 - What's Good for the Goose.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+rsync /mnt/cache/1/media/videos/Movies/./About Schmidt (2002)/About Schmidt.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/TV/./Grey's Anatomy/Season19/Grey's Anatomy - s19e07 - I'll Follow the Sun.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e01 - Track 1 - Come and Get It-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/./videos/Movies/About Schmidt (2002)/About Schmidt.mkv /mnt/mergerfs/backing/media/
+Fri Mar 10 19:16:43 EST 2023 Done
+rsync /mnt/cache/1/tmp/./plex/com.plexapp.plugins.library.db.1 /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./plex/com.plexapp.plugins.library.db /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/wayne.test /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Walking with Dinosaurs 3D-TdarrCacheFile-RRtAYceaW7.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Turbo-TdarrCacheFile-liSMBkQUjg.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/The Nut Job-TdarrCacheFile-Db6R4smtZI.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Tombstone-4k-TdarrCacheFile-2tqf6dqVrW.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/media/pictures/./2022/2022_10/2022_10_08/20221008_155813.mp4 /mnt/mergerfs/backing/media/pictures
+Fri Mar 10 19:30:07 EST 2023 Begin cache drive clean...
+rsync /mnt/cache/1/tmp/./tdarr/Jeepers Creepers Reborn-4k-TdarrCacheFile-ljCzoY4VL.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/The.Aeronauts.2019.2160p.AMZN.WEBRip.DD5.1.x264-AJP69-4k-TdarrCacheFile-Ksj8KClbba.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Emily the Criminal-4k-TdarrCacheFile-TH8k7ncqYT.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Edge of Tomorrow-4k-TdarrCacheFile-BMkmaXDWcv.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/America's National Parks (2022) - s01e05 - Hawai'i Volcanoes-TdarrCacheFile-hTE4QTwB2r.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Tombstone-4k-TdarrCacheFile-2tqf6dqVrW.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Reno 911! - s02e08 - Security for Kenny Rogers-TdarrCacheFile-mXgWRxBvjh.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Reno 911! - s05e08 - The Wall-TdarrCacheFile-TZ9qVJ4pqK.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/tmp/./tdarr/Reno 911! - s02e07 - Not Without My Mustache-TdarrCacheFile--A6cKs9aa6.mkv /mnt/mergerfs/backing/tmp/
+rsync /mnt/cache/1/media/pictures/./2022/2022_10/2022_10_08/20221008_191651.mp4 /mnt/mergerfs/backing/media/pictures
+rsync /mnt/cache/1/media/pictures/./2021/2021_12/2021_12_03/20211203_002139.mp4 /mnt/mergerfs/backing/media/pictures
+rsync /mnt/cache/1/media/pictures/./2022/2022_10/2022_10_08/20221008_155813.mp4 /mnt/mergerfs/backing/media/pictures
+rsync /mnt/cache/1/media/videos/Stand Up/./Chris Rock Selective Outrage (2023)/Chris Rock Selective Outrage.mp4 /mnt/mergerfs/backing/media/videos/Stand Up
+rsync /mnt/cache/1/media/videos/TV-Reality/./Big Brother Canada/Season11/Big Brother Canada - s11e01 - Episode 1.mkv /mnt/mergerfs/backing/media/videos/TV-Reality
+rsync /mnt/cache/1/media/videos/TV-Reality/./Big Brother Canada/Season11/Big Brother Canada - s11e02 - Episode 2.mkv /mnt/mergerfs/backing/media/videos/TV-Reality
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Home Town/Season07/Home Town - s07e12 - What's Good for the Goose.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Maine Cabin Masters/Season01/Maine Cabin Masters - s01e06 - Not-So-Pleasant Camp on Pleasant Pond.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Maine Cabin Masters/Season01/Maine Cabin Masters - s01e07 - A Cabin for the Bride.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+Fri Mar 10 19:42:52 EST 2023 Done
+Fri Mar 10 19:52:25 EST 2023 Begin cache drive clean...
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Maine Cabin Masters/Season01/Maine Cabin Masters - s01e08 - 130-Year-Old Island Cabin.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Maine Cabin Masters/Season01/Maine Cabin Masters - s01e09 - Off-the-Grid Renovation.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+rsync /mnt/cache/1/media/videos/TV-HGTV/./Maine Cabin Masters/Season01/Maine Cabin Masters - s01e10 - A Camp on Two Ponds.mkv /mnt/mergerfs/backing/media/videos/TV-HGTV
+rsync /mnt/cache/1/media/videos/Movies/./About Schmidt (2002)/About Schmidt.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./The Last Movie Star (2018)/The Last Movie Star.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Magic Mike's Last Dance (2023)/Magic Mike's Last Dance.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Soft & Quiet (2022)/Soft & Quiet.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Jigsaw (2017)/Jigsaw.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Project X (2012)/Project X.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./A Man Called Otto (2022)/A Man Called Otto.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./We Have a Ghost (2023)/We Have a Ghost.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./80 for Brady (2023)/80 for Brady.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./EuroTrip (2004)/EuroTrip.mp4 /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Creed II (2018)/Creed II.mp4 /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./The Whale (2022)/The Whale.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./The Girl Who Escaped The Kara Robinson Story (2023)/The Girl Who Escaped The Kara Robinson Story.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Missing (2023)/Missing.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/Movies/./Operation Fortune Ruse de Guerre (2023)/Operation Fortune Ruse de Guerre.mkv /mnt/mergerfs/backing/media/videos/Movies
+rsync /mnt/cache/1/media/videos/TV/./Grey's Anatomy/Season19/Grey's Anatomy - s19e07 - I'll Follow the Sun.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./S.W.A.T. (2017)/Season06/S.W.A.T. (2017) - s06e15 - To Protect & to Serve.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./S.W.A.T. (2017)/Season06/S.W.A.T. (2017) - s06e14 - Gut Punch.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Chicago P.D/Season10/Chicago P.D. - s10e14 - Trapped.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Chicago P.D/Season10/Chicago P.D. - s10e15 - Blood and Honor.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Chicago Fire/Season11/Chicago Fire - s11e14 - Run Like Hell.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Chicago Med/Season08/Chicago Med - s08e14 - On Days Like Today. Silver Linings Become Lifelines.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Chicago Med/Season08/Chicago Med - s08e15 - Those Times You Have to Cross the Line.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Saturday Night Live/Season48/Saturday Night Live - s48e13 - Woody Harrelson + Jack White.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Law & Order- Special Victims Unit/Season24/Law & Order - Special Victims Unit - s24e15 - King of the Moon.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Blue Bloods/Season13/Blue Bloods - s13e14 - Collision Course.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Grey's Anatomy/Season19/Grey's Anatomy - s19e08 - All Star.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Chicago Fire/Season11/Chicago Fire - s11e15 - Damage Control.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Saturday Night Live/Season48/Saturday Night Live - s48e14 - Travis Kelce + Kelsea Ballerini.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Wu-Tang - An American Saga/Season03/Wu-Tang - An American Saga - s03e06 - Criminology.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./How I Met Your Father/Season02/How I Met Your Father - s02e07 - A Terrible, Horrible, No Good, Very Bad Valentina's Day.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Last of Us/Season01/The Last of Us - s01e08 - When We Are in Need.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Mandalorian/Season03/The Mandalorian - s03e02 - Chapter 18.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Blacklist/Season10/The Blacklist - s10e01 - The Night Owl.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Blacklist/Season10/The Blacklist - s10e02 - The Whaler.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Flash (2014)/Season09/The Flash (2014) - s09e01 - Wednesday Ever After.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Flash (2014)/Season09/The Flash (2014) - s09e02 - Hear No Evil.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Flash (2014)/Season09/The Flash (2014) - s09e03 - Rogues of War.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Flash (2014)/Season09/The Flash (2014) - s09e04 - Mask of the Red Death (1).mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Goldbergs (2013)/Season10/The Goldbergs (2013) - s10e14 - Two-Timing Goldbergs.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Goldbergs (2013)/Season10/The Goldbergs (2013) - s10e15 - The Crush.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Good Doctor/Season06/The Good Doctor - s06e14 - Hard Heart.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Good Doctor/Season06/The Good Doctor - s06e15 - Old Friends.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Simpsons/Season34/The Simpsons - s34e13 - The Many Saints of Springfield.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Simpsons/Season34/The Simpsons - s34e14 - Carl Carlson Rides Again.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Simpsons/Season34/The Simpsons - s34e15 - Bartless.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Young Sheldon/Season06/Young Sheldon - s06e13 - A Frat Party, a Sleepover and the Mother of All Blisters.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Station 19/Season06/Station 19 - s06e07 - We Build Then We Break.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Station 19/Season06/Station 19 - s06e08 - I Know a Place.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./A Million Little Things/Season05/A Million Little Things - s05e03 - in the room.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./A Million Little Things/Season05/A Million Little Things - s05e04 - a bird in the hand.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Snowfall (2017)/Season06/Snowfall (2017) - s06e01 - Fallout.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Snowfall (2017)/Season06/Snowfall (2017) - s06e02 - The Sit Down.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Snowfall (2017)/Season06/Snowfall (2017) - s06e03 - Door of No Return.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Law & Order/Season22/Law & Order - s22e15 - Fear and Loathing.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Workin' Moms/Season07/Workin' Moms - s07e09 - Old Sloane.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Godfather of Harlem/Season03/Godfather of Harlem - s03e06 - Spooks.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Godfather of Harlem/Season03/Godfather of Harlem - s03e07 - All Roads Lead to Malcolm.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./9-1-1 - Lone Star/Season04/9-1-1 - Lone Star - s04e05 - Human Resources.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./9-1-1 - Lone Star/Season04/9-1-1 - Lone Star - s04e06 - This is Not a Drill.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Servant/Season04/Servant - s04e07 - Myth.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Servant/Season04/Servant - s04e08 - Tunnels.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Family Guy/Season21/Family Guy - s21e12 - Old West.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Family Guy/Season21/Family Guy - s21e14 - White Meg Can't Jump.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Rookie/Season05/The Rookie - s05e16 - Exposed.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Rookie/Season05/The Rookie - s05e17 - The Enemy Within.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Wu-Tang - An American Saga/Season03/Wu-Tang - An American Saga - s03e04 - Daytona 500.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Wu-Tang - An American Saga/Season03/Wu-Tang - An American Saga - s03e05 - A Better Tomorrow.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./South Park/Season26/South Park - s26e03 - Japanese Toilet.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Mandalorian/Season03/The Mandalorian - s03e01 - Chapter 17 - The Apostate.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Your Honor (US)/Season02/Your Honor (US) - s02e07 - Part Seventeen.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Your Honor (US)/Season02/Your Honor (US) - s02e08 - Part Eighteen.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./FBI/Season05/FBI - s05e14 - Money for Nothing.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./FBI/Season05/FBI - s05e15 - The Lies We Tell.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./FBI - Most Wanted/Season04/FBI - Most Wanted - s04e13 - Transaction.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./FBI - Most Wanted/Season04/FBI - Most Wanted - s04e14 - Wanted - America.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Young Rock/Season03/Young Rock - s03e13 - False Ceilings.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Law & Order - Organized Crime/Season03/Law & Order - Organized Crime - s03e15 - The Wild and the Innocent.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Ghosts (US)/Season02/Ghosts (US) - s02e16 - Isaac's Book.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./FBI - International/Season02/FBI - International - s02e13 - Indefensible.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./FBI - International/Season02/FBI - International - s02e14 - He Who Speaks Dies.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./How I Met Your Father/Season02/How I Met Your Father - s02e06 - Universal Therapy.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Abbott Elementary/Season02/Abbott Elementary - s02e16 - Teacher Conference.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Abbott Elementary/Season02/Abbott Elementary - s02e17 - Mural Arts.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./East New York/Season01/East New York - s01e13 - We Didn't Start the Fire.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./East New York/Season01/East New York - s01e14 - Family Tithes.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./1923/Season01/1923 - s01e08 - Nothing Left to Lose.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Alaska Daily/Season01/Alaska Daily - s01e07 - Enemy of the People.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Rookie - Feds/Season01/The Rookie - Feds - s01e16 - For Love and Money.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Rookie - Feds/Season01/The Rookie - Feds - s01e17 - Payback.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Fire Country/Season01/Fire Country - s01e15 - False Promises.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Walker Independence/Season01/Walker Independence - s01e12 - How We Got Here.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Walker Independence/Season01/Walker Independence - s01e13 - Let Him Hang.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Walker/Season03/Walker - s03e12 - Best Laid Plans.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Walker/Season03/Walker - s03e13 - The Deserters.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Poker Face/Season01/Poker Face (2023) - s01e08 - The Orpheus Syndrome.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Poker Face/Season01/Poker Face (2023) - s01e09 - Escape from Shit Mountain.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Shrinking/Season01/Shrinking - s01e06 - Imposter Syndrome.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Shrinking/Season01/Shrinking - s01e07 - Apology Tour.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Party Down/Season03/Party Down - s03e01 - Kyle Bradway is Nitromancer.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Party Down/Season03/Party Down - s03e02 - Jack Botty's Delayed Post-Pandemic Surprise Party.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e01 - Track 1 - Come and Get It.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e02 - Track 2 - I'll Take You There.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e03 - Track 3 - Someone Saved My Life Tonight.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Animal Control/Season01/Animal Control - s01e02 - Rabbits and Pythons.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Animal Control/Season01/Animal Control - s01e03 - Cougars and Kangaroos.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Accused (US)/Season01/Accused (US) - s01e05 - Robyn's Story.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Accused (US)/Season01/Accused (US) - s01e06 - Naataanii's Story.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Last of Us/Season01/The Last of Us - s01e07 - Left Behind.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Dear Edward/Season01/Dear Edward - s01e06 - Truth.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Hello Tomorrow!/Season01/Hello Tomorrow! - s01e04 - Forms, Appropriately Filled and Filed.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Hello Tomorrow!/Season01/Hello Tomorrow! - s01e05 - From the Desk of Stanley Jenkins.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Will Trent/Season01/Will Trent - s01e07 - Unable to Locate.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Will Trent/Season01/Will Trent - s01e08 - Two Hundred Dollars and a Bus Pass.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Accused (US)/Season01/Accused (US) - s01e07 - Brenda's Story.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Workin' Moms/Season07/Workin' Moms - s07e10 - The Proposal.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Flash (2014)/Season09/The Flash (2014) - s09e05 - Mask of the Red Death (2).mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./A Million Little Things/Season05/A Million Little Things - s05e05 - no place like home.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Poker Face/Season01/Poker Face (2023) - s01e10 - The Hook.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Snowfall (2017)/Season06/Snowfall (2017) - s06e04 - Projects Boy.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./The Goldbergs (2013)/Season10/The Goldbergs (2013) - s10e16 - The Better Annie.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Mayor of Kingstown/Season02/Mayor of Kingstown - s02e07 - Drones.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Perry Mason (2020)/Season02/Perry Mason (2020) - s02e01 - Chapter 9 - The Great Gate.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Mayor of Kingstown/Season02/Mayor of Kingstown - s02e08 - Santa Jesus.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Young Sheldon/Season06/Young Sheldon - s06e15 - Teen Angst and a Smart-Boy Walk of Shame.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Young Sheldon/Season06/Young Sheldon - s06e14 - A Launch Party and a Whole Human Being.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Dear Edward/Season01/Dear Edward - s01e07 - Folklore.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Grey's Anatomy/Season19/Grey's Anatomy - s19e09 - Love Don't Cost a Thing.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./9-1-1 - Lone Star/Season04/9-1-1 - Lone Star - s04e07 - Tommy Dearest.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Party Down/Season03/Party Down - s03e03 - First Annual PI2A Symposium.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Ghosts (US)/Season02/Ghosts (US) - s02e17 - Weekend From Hell.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Alaska Daily/Season01/Alaska Daily - s01e08 - Tell a Reporter Not to Do Something and Suddenly It's a Party.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./South Park/Season26/South Park - s26e04 - Deep Learning.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Hello Tomorrow!/Season01/Hello Tomorrow! - s01e06 - The Numbers Behind the Numbers.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Animal Control/Season01/Animal Control - s01e04 - Dogs and Bears and Minks.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Shrinking/Season01/Shrinking - s01e08 - Boop.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./9-1-1/Season06/9-1-1 - s06e10 - In a Flash.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e01 - Auction.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e02 - Play Ball.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e03 - Devil in the Outfield.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e04 - On the Wrong Track.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e06 - Katie Girl.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e07 - Busted.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e08 - A Good Lawyer's Hard to Find.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e09 - Company at the Water Company.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e10 - One Way Ticket.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e11 - Lighthouse.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e12 - Blood Work.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Station 19/Season06/Station 19 - s06e09 - Come as You Are.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Daisy Jones & The Six/Season01/Daisy Jones and The Six - s01e04 - Track 4 - I Saw The Light.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Daisy Jones & The Six/Season01/Daisy Jones and The Six - s01e06 - Track 6 - Whatever Gets You Thru The Night.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Daisy Jones & The Six/Season01/Daisy Jones and The Six - s01e05 - Track 5 - Fire.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Abbott Elementary/Season02/Abbott Elementary - s02e18 - Teacher Appreciation.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Dear Edward/Season01/Dear Edward - s01e08 - Music.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e06 - Where in the Fuck is Randy's Barbeque.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e02 - Temporary Relief Assistant Trailer Park Supervisor.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e08 - A Shit Leopard Can't Change its Spots.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e01 - Kiss of Freedom.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e05 - Closer to the Heart.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e03 - If I Can't Smoke and Swear I'm Fucked.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e07 - The Delusions of Officer Jim Lahey.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season03/Trailer Park Boys - s03e04 - Who's the Microphone Assassin.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e05 - The Bible Pimp.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e01 - What in the Fuck Happened to Our Trailer Park.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e02 - Jim Lahey Is a Drunk Bastard.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e07 - The Bare Pimp Project.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e03 - I've Met Cats and Dogs Smarter Than Trevor and Cory.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e06 - Never Trust a Man with No Shirt On.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season02/Trailer Park Boys - s02e04 - A Dope Trailer Is No Place for a Kitty.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season01/Trailer Park Boys - s01e03 - Mr. Lahey's Got My Porno Tape.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season01/Trailer Park Boys - s01e06 - Who the Hell Invited These Idiots to My Wedding.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season01/Trailer Park Boys - s01e05 - I'm Not Gay, I Love Lucy. Wait a Second, Maybe I am Gay.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season01/Trailer Park Boys - s01e04 - Mrs. Peterson's Dog Gets Fucked Up.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season01/Trailer Park Boys - s01e02 - Fuck Community College, Let's Get Drunk and Eat Chicken Fingers.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season01/Trailer Park Boys - s01e01 - Take Your Little Gun and Get Out of My Trailer Park.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e05 - Jim Lahey is a Fuckin' Drunk and He Always Will Be.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e08 - Dressed All Over & Zesty Mordant.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e09 - I am the Liquor.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e06 - Don't Cross the Shit Line.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e07 - The Winds of Shit.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e10 - Shit Blizzard.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e03 - The Fuckin' Way She Goes.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e02 - The Shit Puppets.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e04 - You Got to Blame the Thing Up Here.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season05/Trailer Park Boys - s05e01 - Give Peace a Chance.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season06/Trailer Park Boys - s06e03 - High Definition Piss Jugs.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season06/Trailer Park Boys - s06e01 - Way of the Road.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season06/Trailer Park Boys - s06e05 - Halloween 1977.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season06/Trailer Park Boys - s06e02 - The Cheeseburger Picnic.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season06/Trailer Park Boys - s06e06 - Gimme My Fuckin' Money or Randy's Dead.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season06/Trailer Park Boys - s06e04 - Where in the Fuck is Oscar Goldman.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e08 - Working Man.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e02 - A Man's Gotta Eat.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e07 - Propane, Propane.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e04 - The Green Bastard.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e01 - Never Cry Shitwolf.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e05 - Conky.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e03 - Rub 'N Tiz'zug.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Trailer Park Boys/Season04/Trailer Park Boys - s04e06 - If You Love Something, Set it Free.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Most Dangerous Game/Season02/Most Dangerous Game - s02e05 - En Fuego.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Servant/Season04/Servant - s04e09 - Awake.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./Your Honor (US)/Season02/Your Honor (US) - s02e09 - Part Nineteen.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e06 - Best of Friends.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e08 - Where Are You Going, Where Have You Been.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e10 - The Death of Jonathan Moore.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e05 - The Fox and the Hound.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e03 - Eat the Rich.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e01 - Joe Takes a Holiday.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e04 - Hampsie.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e07 - Good Man, Cruel World.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e02 - Portrait of the Artist.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV/./You/Season04/You - s04e09 - She's Not There.mkv /mnt/mergerfs/backing/media/videos/TV
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e01 - Track 1 - Come and Get It-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Poker Face/Season01/Poker Face (2023) - s01e09 - Escape from Shit Mountain-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Wu-Tang - An American Saga/Season03/Wu-Tang - An American Saga - s03e04 - Daytona 500-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Wu-Tang - An American Saga/Season03/Wu-Tang - An American Saga - s03e05 - A Better Tomorrow-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e02 - Track 2 - I'll Take You There-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones & The Six - s01e03 - Track 3 - Someone Saved My Life Tonight-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Snowfall/Season06/Snowfall (2017) - s06e02 - The Sit Down-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Snowfall/Season06/Snowfall (2017) - s06e01 - Fallout-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Snowfall/Season06/Snowfall (2017) - s06e03 - Door of No Return-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Wu-Tang - An American Saga/Season03/Wu-Tang - An American Saga - s03e06 - Criminology-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Poker Face/Season01/Poker Face (2023) - s01e10 - The Hook-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Dear Edward/Season01/Dear Edward - s01e08 - Music-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Shrinking/Season01/Shrinking - s01e08 - Boop-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Hello Tomorrow!/Season01/Hello Tomorrow! - s01e06 - The Numbers Behind the Numbers-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Ghosts (US)/Season02/Ghosts (US) - s02e17 - Weekend From Hell-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones and The Six - s01e06 - Track 6 - Whatever Gets You Thru The Night-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Snowfall/Season06/Snowfall (2017) - s06e04 - Projects Boy-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones and The Six - s01e05 - Track 5 - Fire-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/videos/TV-4k/./Daisy Jones & The Six/Season01/Daisy Jones and The Six - s01e04 - Track 4 - I Saw The Light-4k.mkv /mnt/mergerfs/backing/media/videos/TV-4k
+rsync /mnt/cache/1/media/./videos/Movies-4k/Creed II (2018)/Creed II-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/Devotion (2022)/Devotion-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/We Have a Ghost (2023)/We Have a Ghost-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/pct /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/Magic Mike's Last Dance (2023)/Magic Mike's Last Dance-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/A Man Called Otto (2022)/A Man Called Otto-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/80 for Brady (2023)/80 for Brady-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/Women Talking (2022)/Women Talking-4k.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./download/torrents/complete/You.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./download/torrents/complete/You.S04.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/NEW upcoming releases by Xclusive.txt /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies/Luther The Fallen Sun (2023)/Luther The Fallen Sun.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/TV/S.W.A.T. (2017)/Season06/S.W.A.T. (2017) - s06e16 - Blowback.mkv /mnt/mergerfs/backing/media/
+rsync /mnt/cache/1/media/./videos/Movies-4k/Missing (2023)/Missing-4k.mkv /mnt/mergerfs/backing/media/
+Sat Mar 11 01:39:52 EST 2023 Done
+Sat Mar 11 04:09:37 EST 2023 Begin cache drive clean...
+rsync /mnt/cache/1/tmp/./tdarr/Law & Order - s22e14 - Heroes-TdarrCacheFile-FYCqRoOx5s.mkv /mnt/mergerfs/backing/tmp/
+Sat Mar 11 04:11:27 EST 2023 Begin cache drive clean...
+rsync /mnt/cache/1/media/videos/Movies/./Plane (2023)/Plane.mkv /mnt/mergerfs/backing/media/videos/Movies
+Sat Mar 11 04:19:42 EST 2023 Done
+Sat Mar 11 04:24:27 EST 2023 Begin cache drive clean...
+Sat Mar 11 04:24:27 EST 2023 Done

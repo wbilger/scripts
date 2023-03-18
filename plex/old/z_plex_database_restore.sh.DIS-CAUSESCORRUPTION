@@ -1,0 +1,55 @@
+#!/bin/bash
+echo 
+echo "******************************************************************"
+echo "**                                                              **"
+echo "** About to replace PMS DB!                                     **"
+echo "** Ensure Plex Media Server is stopped,                         **"
+echo "** and DB backup is valid                                       **"
+echo "**  (PMS will be stoped to be sure, and will be started after)  **"
+echo "**                                                              **"
+echo "******************************************************************"
+echo
+echo -n "Restore PMS DB from backup location (y/n)? "
+SCRIPT=`realpath $0`
+currentdir=`dirname $SCRIPT`
+
+old_stty_cfg=$(stty -g)
+stty raw -echo
+answer=$( while ! head -c 1 | grep -i '[ny]' ;do true ;done )
+stty $old_stty_cfg
+
+if echo "$answer" | grep -iq "^y" ;then
+    echo "Stopping Plex..."
+    sudo systemctl stop plexmediaserver 
+    systemctl status plexmediaserver | grep "Active:"
+    echo -n "Ensure Plex is Stopped, continue with database restore (y/n)? "
+    old_stty_cfg=$(stty -g)
+    stty raw -echo
+    answer=$( while ! head -c 1 | grep -i '[ny]' ;do true ;done )
+    stty $old_stty_cfg
+    if echo "$answer" | grep -iq "^y" ;then
+        cd /home/wayne
+        sudo cp -a  "/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.db" tmp/plex/com.plexapp.plugins.library.db.last
+        ls -lah tmp/plex/
+        echo "Current Plex DB backed up to /tmp/plex, now will restore DB to Plex..."
+        mv tmp/plex/com.plexapp.plugins.library.db ./
+        $currentdir/plex_database_trigger_create.sh
+        sudo -u plex cp -a ./com.plexapp.plugins.library.db "/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-in Support/Databases/"
+        echo "Restore Complete!"
+	#sudo chown plex:plex "/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-in Support/Databases/com.plexapp.plugins.library.db"
+        sudo ls -lah "/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-in Support/Databases/"
+        mv ./com.plexapp.plugins.library.db tmp/plex/
+    else
+        echo "DB not restored, restarting Plex..."
+        echo
+    fi
+    sudo systemctl start plexmediaserver 
+    echo "Plex Started."
+    echo
+    systemctl status plexmediaserver | grep "Active:"
+    echo
+    echo "Done."
+else
+    echo "DB not restored."
+    echo
+fi
